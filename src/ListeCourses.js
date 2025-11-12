@@ -1,0 +1,1 @@
+﻿function ListeCourses({ articles }) {  return (    <ul>      {articles.map((article, index) => (        <li key={index}>{article}</li>      ))}    </ul>  );}export default ListeCourses;
