@@ -47,7 +47,8 @@ Ce TP présente une application React complète mettant en œuvre les concepts f
 
 ##  Structure du Projet
 
-\`\`\`
+```
+
 tp-navigation/
 ├── public/                 # Fichiers publics
 ├── src/
@@ -68,7 +69,8 @@ tp-navigation/
 │   ├── App.css           # Styles principaux
 │   └── index.js          Point d'entrée
 └── package.json
-\`\`\`
+
+```
 
 ##  Composants Principaux
 
